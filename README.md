@@ -1,4 +1,5 @@
 # quickjavahelloworldmultimodule
+
 mvn archetype:generate -DgroupId=org.purplejacket.multimodule -DartifactId=quickjavahelloworldmultimodule
 mvn archetype:generate -DgroupId=org.purplejacket.multimodule  -DartifactId=model-lib
 mvn archetype:generate -DgroupId=org.purplejacket.multimodule  -DartifactId=webapp1
